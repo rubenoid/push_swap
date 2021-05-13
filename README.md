@@ -1,5 +1,10 @@
 # push_swap
 
+![mark](https://github.com/rubenoid/push_swap/blob/main/push_swap_mark.png?raw=true)
+
+(80% to pass, 18% is bonus points)
+
+
 The Push_swap project is a very simple and highly effective algorithm project: data will
 need to be sorted. You have at your disposal a set of int values, 2 stacks and a set of
 instructions to manipulate both stacks.
@@ -40,3 +45,5 @@ becomes the first one.
   - `rrb` : reverse rotate `b` - shift down all elements of stack `b` by 1. The last element
 becomes the first one.
   - `rrr` : `rra` and `rrb` at the same time.
+
+You can read more about it in the [subject](https://github.com/rubenoid/push_swap/blob/main/push_swap.pdf).
